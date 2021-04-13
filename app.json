@@ -7,7 +7,7 @@
      "USER": {
       "description": " email",
       "value": "Mymegaaccount1(REPLACETHIS)"
-    }
+    },
      "PASSX": {
       "description": "password",
       "value": "PASSWORD"
