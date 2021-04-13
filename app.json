@@ -4,9 +4,13 @@
   "logo": "https://forum.rclone.org/uploads/default/original/2X/0/0f430bb0f2f7a9ed020a9e93c89f4d332adcac4b.gif",
   "keywords": ["nginx", "docker", "rclone", "index"],
   "env": {
-     "CLOUDNAME": {
-      "description": "Please enter your rclone config storage name that you have given SEE THIS EXAMPLE IMAGE https://i.imgur.com/R4O4ltn.png",
+     "USER": {
+      "description": " email",
       "value": "Mymegaaccount1(REPLACETHIS)"
+    }
+     "PASSX": {
+      "description": "password",
+      "value": "PASSWORD"
     }
 
 
