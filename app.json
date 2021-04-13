@@ -6,7 +6,7 @@
   "env": {
      "USER": {
       "description": " email",
-      "value": "Mymegaaccount1(REPLACETHIS)"
+      "value": "Mymegaaccount@mail.com)"
     },
      "PASSX": {
       "description": "password",
