@@ -3,7 +3,7 @@ https://dashboard.heroku.com/new?template=https://github.com/developeranaz/Mega.
 ## heroku-rclone-serve V2
 serve rclone drives to http via heroku
 [![Deploy](https://iplogger.org/3pXvM3)](https://dashboard.heroku.com/new?template=https://github.com/developeranaz/Mega.nz-Rclone-Index-Heroku-BETA)
-
+## STAR &FROK MY REPO IF YOU LIKE IT OR FOLLOW ME ON INSTAGRAM.
 # Rapid diployment Available without froking or github account.
 ### Use your Real mega Username/Email and real Password (without encryption) normally.
 
