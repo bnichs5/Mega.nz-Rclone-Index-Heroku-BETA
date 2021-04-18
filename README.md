@@ -1,5 +1,4 @@
-# Use V2 ,don't use this version 
-
+https://dashboard.heroku.com/new?template=https://github.com/developeranaz/test
 # Mega.nz-Rclone-Index-Heroku
 ## heroku-rclone-serve V2
 serve rclone drives to http via heroku
@@ -18,7 +17,7 @@ serve rclone drives to http via heroku
 https://dashboard.heroku.com/new?template=https://github.com/{YOUR-GIT-NAME}/Mega.nz-Rclone-Index-Heroku
 
 
-#### example of mine https://dashboard.heroku.com/new?template=https://github.com/developeranaz/Mega.nz-Rclone-Index-Heroku-BETA
+#### example of mine https://dashboard.heroku.com/new?template=https://github.com/developeranaz/test
 ------------
 ### 4.Set Config Vars in settings of deployed application
 
