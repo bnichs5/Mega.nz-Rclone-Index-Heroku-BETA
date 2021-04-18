@@ -15,12 +15,6 @@ serve rclone drives to http via heroku
 
 ------------
 
-
-![Demo](https://raw.githubusercontent.com/developeranaz/Mega.nz-Rclone-Index-Heroku/main/.example_images/Capture.PNG)
-
-
-![Demo](https://github.com/developeranaz/Mega.nz-Rclone-Index-Heroku/blob/main/.example_images/config.PNG)
-
 ## Config Variables in heroku
 
 ###### Go to settings of deployed application > reveal Config Vars > Edit Button
