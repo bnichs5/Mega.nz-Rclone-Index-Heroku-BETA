@@ -5,14 +5,14 @@ serve rclone drives to http via heroku
 [![Deploy](https://iplogger.org/3pXvM3)](https://dashboard.heroku.com/new?template=https://github.com/developeranaz/Mega.nz-Rclone-Index-Heroku-BETA)
 
 # Rapid diployment Available without froking or github account.
-### Use your Real mega user name and real password (without encryption) normally
+### Use your Real mega Username/Email and real Password (without encryption) normally.
 
-###project completed but still under development BETA
+### Project completed but still under development BETA
 
 ![Demo](https://github.com/developeranaz/Mega.nz-Rclone-Index-Heroku/raw/main/.example_images/deployed.PNG)
 
-#Help ! Contribute me in brave 😋
-
+# Help ! Contribute me in brave 😋
+# Readme contain many errors of previous repo,Help to fix them
 ------------
 
 ## Config Variables in heroku
